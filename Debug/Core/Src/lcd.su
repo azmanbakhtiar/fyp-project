@@ -1,0 +1,9 @@
+../Core/Src/lcd.c:25:6:delay	24	static
+../Core/Src/lcd.c:39:6:send_to_lcd	16	static
+../Core/Src/lcd.c:56:6:lcd_send_cmd	24	static
+../Core/Src/lcd.c:69:6:lcd_send_data	24	static
+../Core/Src/lcd.c:82:6:lcd_clear	8	static
+../Core/Src/lcd.c:88:6:lcd_put_cur	16	static
+../Core/Src/lcd.c:105:6:lcd_init	8	static
+../Core/Src/lcd.c:117:6:lcd_send_string	16	static
+../Core/Src/lcd.c:126:6:displaySensorValueOnLCD	520	static
