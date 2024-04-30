@@ -1,7 +1,10 @@
-![picture2](https://github.com/azmanbakhtiar/fyp-project/assets/145319590/c22f3616-b5c3-4be1-b812-c78c7ac2fed0)
+
 # STM PWM Generator for BLDC Motor Control
 
 This repository contains code and documentation for a PWM generator designed for controlling BLDC (Brushless DC) motors using an STM microcontroller. The PWM (Pulse Width Modulation) signals are essential for controlling the speed and direction of BLDC motors. This project utilizes STM32CubeIDE and potentiometers to adjust various parameters such as frequency and duty cycle for generating the PWM signals.
+
+# Circuit
+![picture2](https://github.com/azmanbakhtiar/fyp-project/assets/145319590/c22f3616-b5c3-4be1-b812-c78c7ac2fed0)
 
 ## Features
 
@@ -29,9 +32,9 @@ This repository contains code and documentation for a PWM generator designed for
 6. Switch to output mode to generate PWM signals based on the configured settings.
 7. Monitor the current settings and mode information on the LCD display.
 
-## Contributing
+## Contributors
 
-Contributions are welcome! If you have any suggestions, improvements, or feature requests, feel free to open an issue or submit a pull request.
+Hajra zubair
 
 ## License
 
